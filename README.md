@@ -12,7 +12,7 @@ Clique nos links abaixo para explorar os projetos individuais:
 - [📉 Python - Gráficos com Matplotlib e Seaborn](https://github.com/RafaelSpumbergSeus/An-lise-Pr--processamento-e-Visualiza-o-de-Dados)  
   Vários gráficos personalizados usando bibliotecas do ecossistema Python.
 
-> ✨ Novos projetos serão adicionados periodicamente! Fique à vontade para explorar e deixar sugestões.
+✨ Novos projetos serão adicionados periodicamente! Fique à vontade para explorar e deixar sugestões.
 
 ## 🚀 Sobre
 
