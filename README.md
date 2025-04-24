@@ -1,6 +1,6 @@
 # 📊 DataVisualization Hub
 
-Bem-vindo ao **DataViz Hub**! Este repositório funciona como um **menu central** para acessar todos os meus projetos de **visualização de dados**. Aqui você encontrará links organizados para dashboards, análises interativas e gráficos criados com ferramentas como **Power BI, Tableau, Python (matplotlib/seaborn/plotly)** e muito mais.
+Bem-vindo ao **DataVisualization Hub**! Este repositório funciona como um **menu central** para acessar todos os meus projetos de **visualização e tratamento de dados**. Aqui você encontrará links organizados para dashboards, análises interativas e gráficos criados com ferramentas como **Power BI, Tableau, Python (matplotlib/seaborn/plotly)** e muito mais.
 
 ## 🌐 Repositórios de Projetos
 
