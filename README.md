@@ -9,6 +9,9 @@ Clique nos links abaixo para explorar os projetos individuais:
 - [📈 Power BI - Análise de Rodovias](https://github.com/RafaelSpumbergSeus/PowerBI)  
   Dashboard interativo no Power BI para análise de acidentes de trânsito nas rodovias federais brasileiras.
 
+- [📊 Power BI Dashboard - Análise de Vendas](https://github.com/RafaelSpumbergSeus/Lab1)
+  Dashboard interativo com o objetivo de fornecer insights estratégicos a partir de um conjunto de dados de vendas. 
+
 - [📉 Python - Gráficos com Matplotlib e Seaborn](https://github.com/RafaelSpumbergSeus/An-lise-Pr--processamento-e-Visualiza-o-de-Dados)  
   Vários gráficos personalizados usando bibliotecas do ecossistema Python.
 
